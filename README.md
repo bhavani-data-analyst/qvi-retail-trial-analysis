@@ -34,7 +34,7 @@ This project analyzes the performance of a trial store against a control store u
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ## Files Included
 
